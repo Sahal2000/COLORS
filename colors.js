@@ -116,4 +116,5 @@ function funPurple()
 function funDarkcyan()
 {
     document.getElementById('second').style.backgroundColor = 'darkcyan';
+    document.getElementById('second').innerHTML = 'DARKCYAN';
 }
